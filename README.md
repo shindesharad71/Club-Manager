@@ -1,4 +1,4 @@
-## Club Manager   
+## Club Manager - A Social Club/Group Organizer with Blogging Platform.
 
 ### :pushpin: Demo - [Club Manager](http://sharadshinde.in/club)
 
