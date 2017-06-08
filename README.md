@@ -45,6 +45,23 @@ Add Your Database Details in **dbconfig.php** file.
 
 
 ```
+## :pushpin: Quick View
+
+### :pushpin: Login
+
+![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/login.png?raw=true "Login")
+
+### :pushpin: Home
+
+![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/home.png?raw=true "Login")
+
+### :pushpin: Blog
+
+![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/blog.png?raw=true "Login")
+
+### :pushpin: New Blog Post
+
+![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/new_blog.png?raw=true "Login")
 
 ### :pushpin: Version
 
