@@ -53,15 +53,23 @@ Add Your Database Details in **dbconfig.php** file.
 
 ### :pushpin: Home
 
-![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/home.png?raw=true "Login")
+![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/home.png?raw=true "Home")
 
 ### :pushpin: Blog
 
-![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/blog.png?raw=true "Login")
+![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/blog.png?raw=true "Blog")
 
 ### :pushpin: New Blog Post
 
-![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/new_blog.png?raw=true "Login")
+![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/new_blog.png?raw=true "New Blog")
+
+### :pushpin: Attendance
+
+![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/attendance.png?raw=true "Attendance")
+
+### :pushpin: Notice
+
+![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/notice.png?raw=true "Notice")
 
 ### :pushpin: Version
 
@@ -78,4 +86,4 @@ MIT
 **Free Software, Hell Yeah!**
 
 
-( readme updated on 10-9-2016 )
+( readme updated on 08-06-2017 )
