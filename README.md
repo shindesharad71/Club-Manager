@@ -1,7 +1,5 @@
 ## Club Manager - A Social Club/Group Organizer with Blogging Platform.
 
-### :pushpin: Demo - [Club Manager](http://showcase.sharadshinde.in/Club-Manager)
-
 ##### Admin login -
 * username - admin
 * password - 12345
